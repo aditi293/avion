@@ -1,0 +1,287 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar
+{
+    font-size: medium;
+    font-weight: bold;
+   
+    
+}
+.navbar a:hover
+{
+    color: rgb(211, 102, 39) !important;
+    text-decoration: underline  rgba(21, 57, 219, 0.685) solid;
+}
+header{
+    text-align: center ;
+    font-weight: bold;
+    padding: 15rem 0 5rem;
+    background-image:url(img2/i3.jpg);
+    background-size: cover;
+    color: rgb(6, 191, 216);
+   
+   
+}
+header .btn
+{
+   border-radius: 4px;
+   background-color:  teal;
+}
+header h1{
+    font-size: 500%;
+    font-family: 'Varela Round', sans-serif;
+    
+}
+header h4{
+    color: rgb(17, 59, 59)
+}
+.start
+{
+    padding: 5rem 0 1rem;
+    text-align: center;
+}
+.start h2{
+    font-family: 'Varela Round', sans-serif;
+
+}
+.top-banner
+{
+    padding: 5rem 0 1rem;
+    text-align: justify;
+    
+}
+.top-banner{
+    border-radius: 4rem;
+}
+.main-btn
+{
+    background-color: rgb(4, 105, 105);
+    border-radius: 5px;
+    color: white;
+    padding: 3px;
+}
+.main-btn:hover
+{
+    color: rgb(12, 12, 14);
+    background-color: thistle;
+}
+.card
+{
+    padding: 5rem 0 3rem;
+    text-align: justify;
+    border-radius: 4rem;
+   
+}
+.chart
+{
+    padding: 12rem 0 5rem;
+}
+.chart h1
+{
+    color: rgb(58, 3, 58);
+   text-decoration: underline solid;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    padding: 6px;
+    font-family: 'Varela Round', sans-serif;
+    
+}
+.more
+{
+    padding: 5rem 0 2rem;
+}
+.more img{
+    border-radius: 4rem;
+}
+.next h5
+{
+    color: rgba(131, 125, 125, 0.637);
+}
+.next
+{
+    padding: 11rem 0 4rem;
+    text-align: center;
+}
+.next h2
+{
+    font-weight: bolder;
+    font-family: 'Varela Round', sans-serif;
+}
+.next img
+{
+    border-radius: 4rem;
+}
+.story-section
+{
+    background-image: url(img2/i9.jpg);
+    background-size: cover;
+    padding: 6rem 0rem 4rem;
+   
+}
+.story-section h2
+{
+    font-weight: bold;
+    color: white;
+    text-align: left;
+
+}
+.story-section p
+{
+    font-family: cursive;
+    color: white;
+    text-align: left;
+}
+
+.more-features
+{
+    text-align: center;
+    padding: 7rem 0 3rem;
+}
+.more-features h1
+{
+    text-decoration: underline black solid;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+.card h5
+{
+    color: rgba(128, 128, 128, 0.548);
+}
+.connections
+{
+    padding: 5rem 0 2rem;
+}
+.connections:hover
+{
+    text-transform: lowercase;
+}
+.report
+{
+    padding: 6rem 0 3rem;
+}
+.report h2
+{
+  text-align: center;
+  text-decoration: underline teal solid;
+  padding: 11px 0 5rem;
+  font-family: 'Varela Round', sans-serif;
+}
+.one,.two,.three
+{
+    margin-left: 5%;
+}
+.pricing h1
+{
+    font-size: 500%
+    font-weight: bold;
+    text-decoration: underline teal solid;
+    text-align: center;
+    padding: 8rem 0 4rem;
+    font-family: 'Varela Round', sans-serif;
+}
+.card-header
+{
+    font-size: 300%;
+    text-align: center;
+}
+.card-title
+{
+    font-size:200%;
+}
+button{
+    background-color: teal;
+    color: rgb(247, 235, 247);
+    border-radius: 9px !important;
+    padding: 7px;
+}
+button:hover
+{
+    background-color: thistle;
+    color: black;
+}
+ .sub h1{
+    text-align: center;
+    text-decoration: underline teal solid;
+    font-family: 'Varela Round', sans-serif;
+    
+}
+.sub p
+{
+    color: rgba(136, 128, 128, 0.664);
+    text-align: center
+}
+.sub{
+    padding:5rem 0 4rem;
+}
+.question
+{
+    padding: 7rem 0 3rem;
+}
+
+.subteam h3
+  {
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Varela Round', sans-serif;
+  }
+  .subteam p{
+      text-align: center;
+  }
+  .subteam
+  {
+      padding: 5.875rem 0 9.375rem;
+  }
+.fab:hover
+{
+    color: blue;
+    cursor: pointer;
+}
+.photo h1{
+    font-weight: bold;
+    text-align: center;
+    padding: 4rem 0 2rem;
+    text-decoration: underline teal solid;
+    font-family: 'Varela Round', sans-serif;
+}
+.photo
+{
+    padding: 4rem 0 2rem;
+}
+.photo .card:hover
+{
+    cursor: pointer;
+    
+}
+.foot
+{
+    padding: 5rem 0 3rem;
+}
+.foot h2
+{
+    font-weight: bold;
+    color: rgb(5, 194, 194);
+    text-decoration: underline violet solid;
+    font-family: 'Varela Round', sans-serif;
+}
+.foot
+{
+    background-color: rgba(236, 145, 236, 0.493);
+   
+}
+input[type="submit"]:hover
+{
+    background-color: cyan;
+    color: black;
+}
+input[type="submit"]
+{
+    background-color: darkcyan;
+    color: wheat;
+    border-radius: 6px;
+    
+}
